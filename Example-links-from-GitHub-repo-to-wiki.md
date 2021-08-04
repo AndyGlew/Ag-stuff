@@ -26,4 +26,4 @@ Q: can GitHub URL be formed in other ways, eg with something other than "blob/br
 ---
 
 See page in the Wiki associated with this repo
-[Example Links from GitHub Wiki to Repo](../../Example-links-from-GitHub-wiki-to-repo.md)
+[Example Links from GitHub Wiki to Repo](../../Example-links-from-GitHub-wiki-to-repo)
