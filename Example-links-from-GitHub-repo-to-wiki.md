@@ -7,6 +7,8 @@ I frequently want to link a GitHub repo to its associated wiki, and vice versa
 [Link from repo to wiki: ../../wiki](../../wiki)
 * ../.. to get out of blob/master to the repo URL base, then add /wiki
 
+see [Example Links from GitHub Wiki to Repo](../../Example-links-from-GitHub-wiki-to-repo.md)
+
 blob/master is git and GitHub stuff
 
 "master" is the fairly standard Git name of the main branch.
