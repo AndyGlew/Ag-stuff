@@ -7,8 +7,6 @@ I frequently want to link a GitHub repo to its associated wiki, and vice versa
 [Link from repo to wiki: ../../wiki](../../wiki)
 * ../.. to get out of blob/master to the repo URL base, then add /wiki
 
-see [Example Links from GitHub Wiki to Repo](../../Example-links-from-GitHub-wiki-to-repo.md)
-
 blob/master is git and GitHub stuff
 
 "master" is the fairly standard Git name of the main branch.
@@ -24,3 +22,8 @@ from the concatenation of
 * and the item pathname relative to the base of the repo
 
 Q: can GitHub URL be formed in other ways, eg with something other than "blob/branchname" ?
+
+---
+
+See page in the Wiki associated with this repo
+[Example Links from GitHub Wiki to Repo](../../Example-links-from-GitHub-wiki-to-repo.md)
