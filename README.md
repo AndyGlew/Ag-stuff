@@ -7,4 +7,6 @@ Generic personal repo.  Mainly to hold a wiki, that may point to other places wh
 [[Test link]]
 
 [Test link](test-link.md)
+[test link]
 
+[test link]()
